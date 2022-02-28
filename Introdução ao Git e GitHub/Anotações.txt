@@ -1,2 +1,15 @@
 Link para download do Git:https://git-scm.com/downloads
 O Git Bash é um terminal entendido para otimizar o uso do Git.
+O GitHub é uma rede social/comunidade para podermos commitar nossos trabalhos, aprender e buscar ajuda na área da TI
+	Pontos importantes
+-git init
+-git clone
+-git status
+-git add * / git add.
+-git commit -m "coment"
+-git push origin main
+-git pull (Caso ocorra algum erro de "mergin")
+
+	Para configurar a máquina loca
+- git config --global user.email "exemplo1@gmail.com"
+- gir config --global user.nick "exemplo1"
